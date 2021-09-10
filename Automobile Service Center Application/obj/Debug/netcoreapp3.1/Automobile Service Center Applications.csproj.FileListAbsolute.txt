@@ -1,0 +1,181 @@
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.StaticWebAssets.xml
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.exe
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.deps.json
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.runtimeconfig.json
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.runtimeconfig.dev.json
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.pdb
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.Views.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.Views.pdb
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.csproj.AssemblyReference.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.AssemblyInfoInputs.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.AssemblyInfo.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.csproj.CoreCompileInputs.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.MvcApplicationPartsAssemblyInfo.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.MvcApplicationPartsAssemblyInfo.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorAssemblyInfo.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorAssemblyInfo.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\staticwebassets\Automobile Service Center Applications.StaticWebAssets.Manifest.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\staticwebassets\Automobile Service Center Applications.StaticWebAssets.xml
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\scopedcss\bundle\Automobile Service Center Applications.styles.css
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.TagHelpers.input.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.TagHelpers.output.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorCoreGenerate.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorTargetAssemblyInfo.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorTargetAssemblyInfo.cs
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.Views.pdb
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.csproj.CopyComplete
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.dll
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.pdb
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.genruntimeconfig.cache
+D:\Lập trình Web-asp.net core\Automobile Service Center Applications\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_MasterLayout.cshtml.g.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.StaticWebAssets.xml
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.exe
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.deps.json
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.runtimeconfig.json
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.runtimeconfig.dev.json
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.pdb
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.Views.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Automobile Service Center Applications.Views.pdb
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.csproj.AssemblyReference.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.GeneratedMSBuildEditorConfig.editorconfig
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.AssemblyInfoInputs.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.AssemblyInfo.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.csproj.CoreCompileInputs.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.MvcApplicationPartsAssemblyInfo.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.MvcApplicationPartsAssemblyInfo.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorAssemblyInfo.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorAssemblyInfo.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\staticwebassets\Automobile Service Center Applications.StaticWebAssets.Manifest.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\staticwebassets\Automobile Service Center Applications.StaticWebAssets.xml
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Automobile Service Center Applications.styles.css
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.TagHelpers.input.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.TagHelpers.output.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorCoreGenerate.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorTargetAssemblyInfo.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.RazorTargetAssemblyInfo.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.Views.pdb
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.csproj.CopyComplete
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.dll
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.pdb
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Automobile Service Center Applications.genruntimeconfig.cache
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_MasterLayout.cshtml.g.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_SecureLayout.cshtml.g.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\KienTrucVaThietKePhanMem\Lab-1---Material-Design-master\Automobile Service Center Application\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
